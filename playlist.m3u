@@ -1,0 +1,1185 @@
+#EXTM3U
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://epg.it999.ru/img/3361.png",Trash HD
+http://cdn1.ott.ist/thrash_hd/index.m3u8?881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/826.png",Star Cinema (RU)
+http://213.184.238.59:5081
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_tMiEXslf.png",Star Cinema HD
+http://195.208.30.179:9001
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://img10.lostpic.net/2019/01/30/0679c18178fb371aa16f830744727691.png",STR TV (Фильмы без рекламы)
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://img.catcast.tv/uploads/09062020/logos/35525-5edf9cd2d6612.png",KinoBroadcast 1
+https://v2.catcast.tv/content/35525/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1513.jpg",ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1508.jpg",ДРАМА TIC EVGENIY
+https://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1517.jpg",Фантастика SCIFI
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1512.jpg",ПАМЯТЬ
+https://v2.catcast.tv/content/38821/index.m3u8?881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1509.jpg",Киносериал
+https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1493.jpg",Russian Комедии EVGENIY
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/10/15/4bb686351254e43c155062383c7c62d3.png" group-title="Фильмы и сериалы",ТВ ДОМ HD
+https://s3.catcast.tv/content/39191/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1598.jpg",Советское кино
+http://mnogotv.club:8084/tv/ch191/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/971.jpg",Семейный
+http://mnogotv.club/hls/kidstvv10/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1660.jpg",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1655.jpg",Кино VHS
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0147.png",Кино ТВ
+http://77.243.112.149:8080//kino-tv/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0147.png",Кино ТВ HD
+http://77.243.112.149:8080/kino_tv_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/kino_24.png",КИНО 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/706.png",Spike
+http://185.181.43.126:8008/play/spike/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5533.png",Cinema
+http://87.251.176.10:8080/131/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/17108.png",Hollywood HD
+http://31.131.136.5:9112/HollywoodHD
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1507.jpg",VHS EVGENIY
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5534.png",Победа
+http://77.243.112.149:8080/pobeda/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://img15.lostpic.net/2020/02/07/511092f9d104a1e3b516ae5bbca234e6.png",Блокбастер
+http://mnogotv.club:8084/tv/ch503/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/lyubimoe_hd.png",Наше любимое
+http://45.133.96.152:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://img.prosto.tv/storage/channel/logo/NasheLubimoeKino.png",Наше любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://www.crdru.net/b/templates/ottch/nash-kinoroman.png",Наш Кинороман
+http://51.68.141.106:8081/tv/nash-kinoroman/chunks.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0107.png",Наш Кинороман HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/213.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/719.png",Мир Сериала
+http://185.245.187.150:80/MirSeriala/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/408.png",НТВ Сериал
+http://77.243.112.149:8080/ntv_serial/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/412.png",НТВ Хит
+http://77.243.112.149:8080/ntv_hit/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/405.jpg",НТВ Право
+http://77.243.112.149:8080/ntv_pravo/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/820.png",Дом Кино
+http://185.181.43.126:8008/play/dom_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/2205.png",Дом Кино Премиум HD
+http://e04.plius.tv:64144/l109/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1472470827028.png",Русская Комедия
+http://51.195.44.53:8081/tv/rus-comedy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0120.png",Комедийное HD
+http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/121.png",Shot TV (Короткометражное кино)
+http://31.131.136.5:9002/play/a00u
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/12101.png",Кинопремьера HD
+http://77.243.112.149:8080/premiera/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png",Наше новое кино
+http://176.115.152.6:4002/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/299.jpg",Наше Новое Кино HD
+http://77.243.112.149:8080/nashe-novoe-kino/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/105.png",Киномикс
+http://176.115.152.6:4002/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/694.jpg",Киномикс HD
+http://e03.plius.tv:64144/n159/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/119.png",Киносемья
+http://31.131.136.5:9002/play/a00n
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/119.png",Киносемья HD
+http://77.243.112.149:8080/kinosemya/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/107.png",Кинохит HD
+http://77.243.112.149:8080/kinohit/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png",Кинокомедия HD
+http://77.243.112.149:8080/komediya/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/113.png",Киносерия
+http://51.195.44.53:8081/tv/kinoseria/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinoseriya.png",Киносерия HD
+http://77.243.112.149:8080/mnogo-tv/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/106.png",Киносвидание HD
+http://77.243.112.149:8080/kinosvidanie/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/6266.png",Мужское кино HD
+http://77.243.112.149:8080/muzhskoe-kino_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы",Наше Мужское
+http://mnogotv.club:8084/tv/ch099/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0123.png",Наше Крутое HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/217.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0121.png",Премиальное HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/215.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0122.png",Остросюжетное HD
+http://mnogotv.club:8084/tv/ch082/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/6229.png",КиноСат
+http://77.243.112.149:8080/kinosat/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
+http://77.243.112.149:8080/kinopokaz/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
+http://mnogotv.club:8084/tv/ch126/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5558.png",FilmBox
+http://mnogotv.club:8280/fre/ch133/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5536.png",FilmBox Arthouse
+http://mnogotv.club:8280/fre/ch134/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1627.jpg",Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1125.jpg",Filmzone
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1628.jpg",Kinoman
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/19121.png",Paramount Channel
+http://79.142.193.87:88/paramount_comedy/playlist.m3u8?token=test
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/PARAMCOMEDY200.png",Paramount Comedy
+http://192.162.212.48/paramount-comedy/mpegts
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_agsQFvaN.png",Sony Turbo
+http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_GE6NAgE6.png",Sony Channel
+http://s6.lifetv.host:8080/s6-26/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/710.png",Sony Channel HD
+http://84.201.130.61:8080/314/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5570.png",Киноужас HD
+http://77.243.112.149:8080/kinoujas/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0218.png",Страшное HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/226.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0119.png",Шокирующее HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/804.png",НСТ
+http://46.8.46.14:80/nst/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Fear EVGENIY (УЖАСЫ)
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1516.jpg",Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Ужасы VHS
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/6211.png",Сиеста HD
+http://194.190.78.91:8080/siesta/index.m3u8?881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/5535.png",Феникс+Кино
+http://188.93.95.83/fenikspluskino/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0277.png",Русский Детектив
+http://87.251.176.10:8080/143/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/424.png",Русский Роман
+http://mnogotv.club:888/ch821/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/421.png",Русский Бестселлер
+http://185.181.43.126:8007/play/ruskii_bestseller/index.m3u8?881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/430.png",Дорама
+http://sc.id-tv.kz/dorama_hd_38_39.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1510.jpg",ЛИК (Любимое индийское кино)
+https://v2.catcast.tv/content/37353/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/276.jpg",Индийское Кино
+http://185.181.43.126:8006/play/india_tv/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1508601767720.png",Zee-TV
+http://77.243.112.149:8080/zee-tv/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/0251.png",Bollywood HD
+http://e04.plius.tv:64144/n138/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://tricolor-38.ru/KANALY_4/1-nd.png",Amedia 1 HD
+http://109.239.208.82:80/amedia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://tricolor-38.ru/KANALY_4/-channel366.png",Amedia 2
+http://109.239.208.82:80/amedia2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/2103.png",Amedia Hit HD
+http://109.239.208.82/amediahit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/2104.png",Amedia Premium HD
+http://109.239.208.82/amediapremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://tricolor-38.ru/KANALY_4/-channelu4m.png",FOX
+http://e02.plius.tv:64144/n67/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="http://only4.tv/ch/17101.png",FOX HD
+http://31.131.136.5:9112/foxhd
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://antifriz.tv/storage/images/channel_logos/fox-life.png",FOX Life
+http://185.181.43.126:8008/play/fox_life/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/301.jpg",Fox Life HD
+http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney (+2)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY_2.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney (+4)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY_4.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney (+6)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY_6.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney (+7)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY_7.m3u8
+#EXTINF:-1 group-title="Детские каналы",МультСказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 group-title="Детские каналы",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://epg.it999.ru/img/323.png",2x2
+http://77.243.112.149:8080/2x2/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="https://epg.domru.ru/chlogo/1581483401.png",Уникум
+http://176.115.152.6:4000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/822.png",Карусель
+http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/822.png",Карусель (+2)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/822.png",Карусель (+4)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/822.png",Карусель (+6)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/822.png",Карусель (+7)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/1312.png",Disney (-1)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY-1.m3u8
+#EXTINF:-1 group-title="Детские каналы",Маша и Медведь
+https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские каналы",DuckTV HD
+http://e03.plius.tv:64144/n100/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/808.png",О!
+http://e02.plius.tv:64144/n153/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/407.png",Мульт
+http://185.181.43.126:8007/play/mult/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/420.png",Мультимузыка
+http://185.181.43.126:8007/play/mult_i_muzika/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/5571.png",СТС Kids HD
+http://77.243.112.149:8080/sts_kids/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="https://telesputnik.ru/upload/iblock/6e3/Ani_s.jpg",Ani
+http://185.181.43.126:8007/play/ani/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="https://telesputnik.ru/upload/iblock/e78/mudtilandiya.jpg",Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/428.png",Мультимания
+http://85.192.44.14/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/2122.png",Gulli Girl
+http://31.131.136.5:9101/GulliGirl
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1482216767405.png",TiJi
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/111.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/708.png",JimJam
+http://185.181.43.126:8008/play/jimjam/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/821.png",Boomerang
+http://mnogotv.club:8084/tv/ch037/playlist.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/802.png",Cartoon Network
+http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/802.png",Cartoon Network HD
+http://77.243.112.149:8080/cartoon-net/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/709.png",Nickelodeon
+http://mnogotv.club:8280/fre/ch044/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/14106.png",Nickelodeon HD
+http://77.243.112.149:8080/nickelodeon/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00305.png",Nicktoons
+http://e02.plius.tv:64144/l155/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="http://only4.tv/ch/814.png",Nick Jr
+http://185.181.43.126:8008/play/nick_jr/index.m3u8
+#EXTINF:-1 group-title="Детские каналы",Радость моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="https://www.crdru.net/b/templates/ottch/ryzhy.png",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 group-title="Детские каналы" tvg-logo="https://assets.limehd.tv/uploads/channel/10128/thumb_329c8f872fc633b30e3ef332ea264a4b.png",Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="https://shgs.ru/images/tv/131.png",Сарафан
+http://77.243.112.149:8080/sarafan/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Юмор",Gags Network
+http://dmitry-tv.my1.ru/his/zabava/04/CH_GAGSNETWORK.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://immo.date/logo/gags-network.png",Gags Network HD
+http://dmitry-tv.my1.ru/his/zabava/04/CH_GAGSNETWORKHD.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/124.png",КВН ТВ
+http://31.131.136.5:9002/play/a00s
+#EXTINF:-1 group-title="Юмор",Перец
+http://e04.plius.tv:64144/l121/playlist.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4 (-1)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4-1.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4 (+2)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_2.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4 (+4)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4 (+6)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_6.m3u8
+#EXTINF:-1 group-title="Юмор" tvg-logo="http://only4.tv/ch/1820.png",ТНТ4 (+7)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_7.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://getsiptv.ru/img/ch_icons/eurosport_4k.png",Eurosport 4K HD
+http://dmitry-tv.my1.ru/his/zabava/01/CH_EUROSPORT4K_HLSHD.m3u8
+#EXTINF:-1 type="stream" channelId="553" tvg-id="match-football1" group-title="Спортивные" tvg-logo="https://karnei4.github.io/convert/match_futbol_1_hd.png", Ф 1 HD
+http://77.243.112.149:8080/football1_hd/index.m3u8?token=881251085388
+#EXTINF:-1 type="stream" channelId="554" tvg-id="match-football2" group-title="Спортивные" tvg-logo="https://karnei4.github.io/convert/match_futbol_2_hd.png", Ф 2 HD
+http://77.243.112.149:8080/football2_hd/index.m3u8?token=881251085388
+#EXTINF:-1 type="stream" channelId="2831" tvg-id="match-football3" group-title="Спортивные" tvg-logo="https://karnei4.github.io/convert/match_futbol_3_hd.png", Ф 3 HD
+http://77.243.112.149:8080/football3_hd/index.m3u8?token=881251085388
+#EXTINF:-1 type="stream" channelId="919" tvg-id="football-ru" group-title="Спортивные" tvg-logo="http://185.220.35.75:4002/icons/FUTBOL.png",Футбол
+http://mnogotv.club:8280/fre/ch063/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 type="stream" channelId="919" tvg-id="football-ru" group-title="Спортивные" tvg-logo="http://185.220.35.75:4002/icons/FUTBOL.png",Футбол HD
+http://77.243.112.149:8080/football/index.m3u8?token=881251085388
+#EXTINF:-1 type="stream" channelId="277" tvg-id="match-premier" group-title="Спортивные" tvg-logo="https://tv.nalench.com/uploads/screenshots/match_premier.png", Премьер
+http://77.243.112.149:8080/nash-football/index.m3u8?token=881251085388
+#EXTINF:-1 type="stream" channelId="277" tvg-id="match-premier" group-title="Спортивные" tvg-logo="http://tricolor-38.ru/KANALY_3/match-premier_hd.png", Премьер HD
+http://77.243.112.149:8080/nash_football_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://tvbesedka.com/images/channels/ec8ce744-c498-41af-abef-ab926c790bb8.png",
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/612.jpg", HD
+http://77.243.112.149:8080/match_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg808.png", Страна
+http://87.251.176.10:8080/84/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/5528.png", Планета
+http://213.184.238.59:6100
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/5542.png",Беларусь 5
+http://37.17.12.118:8902/play/a003
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00268.png",Спорт 2
+http://91.149.172.133:8787/udp/239.0.0.42:8000
+#EXTINF:-1 group-title="Спортивные",Спорт дайджест
+https://autopilot.catcast.tv/content/39326/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/6261.png",СТАРТ HD
+http://77.243.112.149:8080/start_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://tricolor-38.ru/TELEKARTA_KANAL/59c9ce.jpg",Eurosport 1
+http://185.181.43.126:8008/play/eurosport1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport-1-HD.png",Eurosport 1 HD
+http://e02.plius.tv:64144/n40/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://tricolor-38.ru/TELEKARTA_KANAL/Eurosport_2.png",Eurosport 2
+http://193.151.107.120:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png",Eurosport 2 HD
+http://e02.plius.tv:64144/l41/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/1302.png", Боец
+http://176.115.152.6:4003/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/422.png",Бокс ТВ
+http://176.115.152.6:4003/play/a006/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/5532.png",UFC
+http://dmitry-tv.my1.ru/his/zabava/04/CH_UFC.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/5532.png",UFC ТВ HD
+http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/icn/m1global.png",M-1 Global
+http://91.149.172.133:8787/udp/239.0.0.141:8000
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/icn/m1global.png",M-1 Global HD
+http://e02.plius.tv:64144/n164/video.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://only4.tv/ch/5529.png",FightBox HD
+http://91.149.172.133:8787/udp/239.0.0.184:8000
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00204.png",MostvideoTV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/6181.png",Трофей
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1119.jpg",Дикая Рыбалка HD
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKAHD.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1118.jpg",Дикая Охота HD
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTAHD.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1580471573130.png",Охота и рыбалка
+http://e04.plius.tv:64144/l70/playlist.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/0144.png",Охотник и рыболов HD
+http://77.243.112.149:8080/ohot_i_rybolov_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://www.oreol.tv/img/101_rybolov_1.jpg",Рыболов
+http://77.243.112.149:8080/ohotnik/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/2105.png",Диалоги о рыбалке
+http://185.181.43.126:8007/play/dialogi_o_ribalke/index.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://www.crdru.net/b/templates/ottch/nasha-tema.png",Наша Тема
+http://89.189.191.250/239.211.211.172/stream.m3u8
+#EXTINF:-1 group-title="Мужские",Наша Тема HD
+http://77.243.112.149:8080/nasha_tema_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/2128.png",Дикий
+http://176.115.152.6:4002/play/a009/index.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/5565.png",Оружие
+http://77.243.112.149:8080/oruzhie/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://telesputnik.ru/upload/iblock/1c4/logotip_telekanal_muzhskoy_1.jpg",Мужской
+http://176.115.152.6:4001/play/a006/index.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/102.png",Авто Плюс
+http://77.243.112.149:8080/avto_plus/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/702.png",Авто24
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/78.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/39e/160_160_1/5ca4bbf6cc94c.png",DTX
+http://mnogotv.club:8084/tv/ch161/playlist.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/5563.png",Драйв
+http://46.8.46.14:80/Drive/playlist.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://olympic-history.ru/800/600/http/www.extremtv.ru/files/re-retro.png",Русский экстрим (Ретро)
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only4.tv/ch/19109.png",Extreme sports
+http://37.17.12.119:8911/play/a00f
+#EXTINF:-1 group-title="Мужские",ETV
+http://31.131.136.5:9109/etv
+#EXTINF:-1 group-title="Мужские",100% Automoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Женские" tvg-logo="https://telesputnik.ru/upload/iblock/4e4/Mama_s.jpg",Мама
+http://77.243.112.149:8080/mama/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Женские" tvg-logo="http://tricolor-38.ru/TELEKARTA_KANAL/channeltax.png",TLC
+http://185.181.43.126:8008/play/discovery_tlc/index.m3u8
+#EXTINF:-1 group-title="Женские" tvg-logo="http://only4.tv/ch/815.png",TLC HD
+http://31.131.136.5:9110/TLCHD
+#EXTINF:-1 group-title="Женские" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/406.jpg",НТВ Стиль
+http://77.243.112.149:8080/ntv_stil/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Женские",Лайфхаки для кухни
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8?881876628082l1
+#EXTINF:-1 group-title="Женские" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/459.jpg",Кухня ТВ HD
+http://e02.plius.tv:64144/n66/video.m3u8
+#EXTINF:-1 group-title="Женские" tvg-logo="https://tricolortula.ru/image/catalog/iblock/6ca/6ca1a1cbffea8ab3acf7494c1377b166.jpg",Еда Премиум HD
+http://77.243.112.149:8080/eda_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Женские" tvg-logo="https://epg.domru.ru/chlogo/1521092672.png",Первый Вегетарианский
+http://89.189.191.250/239.211.211.165/stream.m3u8
+#EXTINF:-1 group-title="Женские" tvg-logo="http://only4.tv/ch/6265.png",Здоровое ТВ
+http://37.17.12.118:8909/play/a00c
+#EXTINF:-1 group-title="Женские" tvg-logo="https://telesputnik.ru/upload/iblock/fca/Telekafe_s.jpg",ТелеКафе
+http://185.181.43.126:8008/play/telecafe/index.m3u8
+#EXTINF:-1 group-title="Женские" tvg-logo="http://only4.tv/ch/416.png",Food Network Россия
+http://176.115.152.6:4003/play/a005/index.m3u8
+#EXTINF:-1 group-title="Познавательные",LOVE NATURE 4K HD
+http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/803.png",Discovery Channel
+http://79.142.197.8:8888/Discovery/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/12105.png",Discovery Channel HD
+http://31.131.136.5:9114/DiscoveryChannelHD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1110.png",Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5564.png",Discovery Science HD
+http://e02.plius.tv:64144/l76/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png",Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19116.png",Nat Geo Wild
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/20101.png",Nat Geo Wild HD
+http://77.243.112.149:8080/natgeo_wild_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/813.png",National Geographic
+http://185.181.43.126:8008/play/national_geographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0203.png",National Geographic HD
+http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1808.png",History
+http://185.22.183.147:8085/media/hls_183_147/history/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://img.prosto.tv/storage/channel/logo/DocuBoxHD.png",DocuBox HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/90.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1537.jpg",HD Life
+http://mnogotv.club:8084/tv/ch058/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1822.png",История
+http://77.243.112.149:8080/istoriya/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1635.jpg",365 дней
+http://185.181.43.126:8006/play/365/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/109.png",Кто есть кто
+http://e02.plius.tv:64144/l84/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1549870117761.png",Тайна
+http://194.190.78.91:8080/tainatv/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Познавательные",RT Doc
+https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/354.jpg",RT Doc HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5526.png",Наука 2.0
+http://185.181.43.126:8008/play/nauka_2_0/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://standart.tv/storage/channels/85/default/Q90W9SOHY9A4Y4BrZ5vn.png",Техно24
+http://185.112.140.28/24_Tehno/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Perpetuum Mobile
+http://mnogotv.club:8084/tv/ch075/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Terra Incognita
+http://mnogotv.club:8280/fre/ch1073/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/807.png",ID Investigation Discovery
+http://185.181.43.126:8008/play/investigation_discovery/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ID_HD_logo_2017.jpg/115px-ID_HD_logo_2017.jpg",ID Investigation Discovery HD
+http://e02.plius.tv:64144/l46/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",CBS Reality
+http://109.239.208.82:80/reality/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://immo.date/logo/zal-suda.png",Зал суда HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1426766716394.png",Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5527.png",English Club
+http://185.22.183.158:8085/media/hls_183_158/english_club/index.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Media
+http://45.88.104.104/play/192/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://shgs.ru/images/tv/1049.png",Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://shgs.ru/images/tv/1049.png",Моя Планета HD
+http://77.243.112.149:8080/planeta_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные",RTG
+http://77.243.112.149:8080/rtg/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0125.png",RTG HD
+http://77.243.112.149:8080/rtg_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tvbesedka.com/Upload/2020/10/23/19/32/51/0be8ac42-40dc-4519-a9a5-7f961d83ec16.jpg",Наша Сибирь 4K HD
+http://dmitry-tv.my1.ru/his/zabava/04/CH_NASHASIBIR4K_HLSHD.m3u8
+#EXTINF:-1 group-title="Познавательные",РОДНОЙ КАНАЛ HD
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Танда
+http://194.190.78.91:8080/tanda/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0136.png",Приключения HD
+http://77.243.112.149:8080/teletravel_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0252.png",Глазами туриста HD
+http://77.243.112.149:8080/glazami_turista_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/26006.png",Travel Channel HD
+http://e02.plius.tv:64144/l44/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/805.png",Поехали!
+http://e03.plius.tv:64144/n154/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+http://77.243.112.149:8080/teleputeshestviya/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1113.png",ZooПарк
+http://176.115.152.6:4000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://77.243.112.149:8080/zoo_tv/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.domru.ru/chlogo/1520929836.png",Живая Планета
+http://77.243.112.149:8080/zhivaya-planeta/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-%D0%9F%D1%91%D1%81-%D0%B8-%D0%9A%D0%BE.png",Пес и Ко
+http://77.243.112.149:8080/pes_i_ko/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0150.png",Конный мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19122.png",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1370.jpg",Морской
+http://185.181.43.126:8007/play/morskoi/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Под водой HD
+http://194.190.78.91:8080/podvodoi/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://assets.limehd.tv/uploads/channel/10093/thumb_4f6a32fcd30c46d9d3563b222a2906e1.png",Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.domru.ru/chlogo/1474892503.png",Бобёр
+http://185.181.43.126:8008/play/bober_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1641.jpg",Fine living
+http://62.210.92.45:8087/fineliving/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Психология 21
+http://89.189.191.250/239.211.211.64/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6262.png",Вопросы и ответы
+http://91.149.172.133:8787/udp/239.0.0.47:8000
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19113.png",Усадьба
+http://46.8.46.14:80/usadba/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://kovrovinter.net/wp-content/uploads/2018/05/1520175885_23844572_162680784342946_5130236267546295070_n.jpg",Тномер
+http://77.243.112.149:8080/tnomer/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tvua.biz/img/can/127.png",Загородная Жизнь
+http://185.181.43.126:8008/play/zagorodnaya_jizni/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tricolortula.ru/image/catalog/iblock/c6f/c6f4a2b55360644887bdbc49eaeab3a2.jpg",Загородный
+http://mnogotv.club:8084/tv/ch092/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.domru.ru/chlogo/1604057226.png",Доктор
+http://192.162.212.48/doctor/mpegts
+#EXTINF:-1 group-title="Познавательные",Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1007.png",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1350902406179.png",Союз
+http://77.243.112.149:8080/soyuz/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://only4.tv/ch/6309.png",Красная линия (СССР)
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://only4.tv/ch/417.png",Москва. Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://vsetv.cc/img/timetv.jpg",Время
+http://77.243.112.149:8080/vremya/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://only4.tv/ch/117.png",Ностальгия
+http://77.243.112.149:8080/nostalgia/index.m3u8?token=881251085388
+#EXTINF:-1 tvg-id="inter-ua" channelId="421" tvg-logo="https://epg.iptvx.one/icn/inter-ua.png" group-title="Украинские",Iнтер
+http://51.68.141.106:8081/tv/inter/chunks.m3u8
+#EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epg.iptvx.one/icn/inter-plus-ua.png" group-title="Украинские",Iнтер+
+http://mnogotv.club:8084/tv/ch00345/playlist.m3u8
+#EXTINF:-1 tvg-id="maliatko-tv" channelId="453" tvg-logo="https://epg.iptvx.one/icn/maliatko-tv.png " group-title="Украинские",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 tvg-logo="https://rai.ua/wp-content/plugins/extra4rai-ua/internet_tv_channels/463.png" group-title="Украинские",Погляд
+http://api-tv.ipnet.ua/api/v1/manifest/2118742550.m3u8
+#EXTINF:-1 tvg-id="hromadske" channelId="1831" tvg-logo="https://epg.iptvx.one/icn/hromadske.png" group-title="Украинские",Громадське HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1 tvg-id="pravdatyt" channelId="116" tvg-logo="https://epg.iptvx.one/icn/pravdatut.png" group-title="Украинские",ПравдаТУТ
+http://195.182.193.25:808/pravdatut/index.m3u8
+#EXTINF:-1 tvg-id="pravdatyt-kyiv" channelId="-1" tvg-logo="https://epg.iptvx.one/icn/pravdatut.png" group-title="Украинские",ПравдаТУТ Київ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="svarozhichi" channelId="-1" tvg-logo="https://dl.dropbox.com/s/3irvcbxi64bgpd5/u96.png" group-title="Украинские",Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="svarozhichi" channelId="-1" tvg-logo="https://dl.dropbox.com/s/3irvcbxi64bgpd5/u96.png" group-title="Украинские",Сварожичи HD
+http://dmitry-tv.my1.ru/his/ua/CH_SVAROZHICHITVHD_720.m3u8
+#EXTINF:-1 tvg-id="sonce-ua" channelId="699" tvg-logo="https://epg.iptvx.one/icn/sonce.png" group-title="Украинские",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 tvg-id="rti" channelId="731" tvg-logo="https://epg.iptvx.one/icn/4kanalua.png" group-title="Украинские",4 канал Україна
+http://api-tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 tvg-id="chernomorskaya" channelId="417" tvg-logo="https://epg.iptvx.one/icn/chernomorskaya.png" group-title="Украинские",Черноморская ТРК
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
+#EXTINF:-1 tvg-id="kultura-ua" channelId="573" tvg-logo="https://dl.dropbox.com/s/y3ncrlmeua6jzpz/u58.png" group-title="Украинские",UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 tvg-id="ua-donbas" channelId="4824" tvg-logo="https://dl.dropbox.com/s/ltnzbl7px9qht6r/u84.png" group-title="Украинские",UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1 tvg-id="ua-krym" channelId="1784" tvg-logo="https://dl.dropbox.com/s/ss9z9g6bmx9t2sa/u61.png" group-title="Украинские",UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 tvg-id="rada-ua" channelId="436" tvg-logo="https://epg.iptvx.one/icn/rada.png" group-title="Украинские",Рада
+http://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 tvg-id="eko-tv" channelId="452" tvg-logo="https://epg.iptvx.one/icn/eko-tv.png" group-title="Украинские",Эко-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 tvg-id="maxxi-tv" channelId="-1" tvg-logo="https://epg.iptvx.one/icn/maxxi-tv.png" group-title="Украинские",НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 tvg-id="kyiv-ua" channelId="457" tvg-logo="https://epg.iptvx.one/icn/kyiv.png" group-title="Украинские",ТРК Київ
+http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 tvg-id="5kanal-ua" channelId="732" tvg-logo="https://epg.iptvx.one/icn/5ua.png" group-title="Украинские",5 канал Україна HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?codec=mpeg4
+#EXTINF:-1 tvg-id="espreso-tv" channelId="1833" tvg-logo="https://epg.iptvx.one/icn/espreso.png" group-title="Украинские",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 tvg-id="oboz-tv" channelId="-1" tvg-logo="https://epg.iptvx.one/icn/oboz-tv.png" group-title="Украинские",OBOZ TV
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1 tvg-id="112-ua" channelId="1489" tvg-logo="https://epg.iptvx.one/icn/112.png" group-title="Украинские",112 Украина
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.mediainform.in.ua/wp-content/uploads/2018/10/cropped-MI-Logo-Right-Winter-1.png" group-title="Украинские",MEDIAiнформ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:-1 tvg-id="priamyj" channelId="425" tvg-logo="https://dl.dropbox.com/s/3kpvxgqnwtzhgj8/u43.png" group-title="Украинские",Прямий HD UA
+http://api-tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 tvg-id="pervy-delovoy" channelId="468" tvg-logo="https://epg.iptvx.one/icn/pervy-delovoy.png" group-title="Украинские",Первый деловой
+https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="chepe-info" channelId="416" tvg-logo="http://gulfstream.cv.ua/sites/default/files/teletrans/chpinfo.png" group-title="Украинские",ЧП.INFO
+http://lb1.macc.com.ua/life/magnolia_3/index.m3u8?bw881251085388.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/198.jpg",Первый Канал (+8)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1315.png",НТВ (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/20106.png",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1001.png",Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Россия",РТР Беларусь HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/23.m3u8
+#EXTINF:-1 group-title="Россия",РТР Молдова HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/337.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvcentr.png",ТВ Центр (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1005.png",Россия К (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg",Пятый канал (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1319.png",ТНТ (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (-1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+1)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+3)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+4)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+5)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+6)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/461.jpg",ТВ3 (+7)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че! (-1)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че!
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че! (+2)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че! (+4)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че! (+6)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1109.png",Че! (+7)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://tcm10.ru/assets/images/mir/ctc-mir_logo.jpg",СТС Мир
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС (-1)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС (+2)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС (+4)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС (+6)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1105.png",СТС (+7)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love (-1)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love (+2)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love (+4)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love (+6)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1106.png",СТС Love (+7)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница (-1)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница (+2)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница (+4)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница (+6)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1009.png",Пятница (+7)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю (-1)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_U-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю (+2)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_U_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю (+4)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_U_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю (+6)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_U_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1320.png",Ю (+7)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_U_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер (-1)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер (+2)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер (+4)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер (+6)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1321.png",Супер (+7)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_SUPER_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/6260.png",Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ (-1)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ (+2)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ (+4)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ (+6)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1004.png",РЕН ТВ (+7)
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда (-1)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда (+2)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда (+4)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда (+6)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1311.png",Звезда (+7)
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний (-1)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний (+2)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний (+4)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний (+6)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1102.png",Домашний (+7)
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1549.jpg",360 HD
+http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/6223.png",360° Подмосковье HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://satcom28.ru/images/channel_icon/733.png",Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1 group-title="Россия",7 TV
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://epg.domru.ru/chlogo/1474885579.png",ОТР
+http://dmitry-tv.my1.ru/his/zabava/03/CH_OTR.m3u8
+#EXTINF:-1 group-title="Россия",Teo TV
+http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1573460457401.png",Первый российский национальный канал HD
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.crdru.net/b/templates/ottch/tvmchannel.png",TVM
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://n-w.tv/wp-content/themes/nmtv_new/img/logo_28-10-2019.png",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1010.png",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1407.png",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/1317.png",РБК
+http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/19114.png",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Новости",TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1573808607046.png",CGTN-Русский
+https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8
+#EXTINF:-1 group-title="Новости",Вечерняя Москва
+http://vmvideo.gcdn.co/streams/1503_161/480n/index.m3u8
+#EXTINF:-1 group-title="Новости",Вечерняя Москва HD
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0302.png",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0295.png",Москва 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/5559.png",Беларусь 24 HD
+http://185.71.81.6:8080/404/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/1823.png",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/705.png",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://assets.limehd.tv/uploads/channel/10223/thumb_21194cbee0e7e05c936688f46fca307a.png",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Новости",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://media.24h.tv/icon/ch/be/a3/bea3a7bbe18e7e1cf4d61f48254ca302.png",360° Новости
+http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://stv.ee/images/chlogos/Logo_new.png",RTVI
+http://188.93.95.83/rtvi/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0266.png",Дождь
+http://77.243.112.149:8080/dozhd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0266.png",Дождь HD
+http://91.202.36.40:8080/dozd/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://cdnua03.hls.tv/cdn/logo/14fe3631edb6ca607b73d5a8e353bb49_high.png",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0480_av-b.m3u8
+#EXTINF:-1 group-title="Новости",Настоящее Время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/Alextv.png",ТРК Алекс (Запорожье)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/TV5.png",ТВ-5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",En TV (Энергодар)
+http://tv.om.ua:8090/test.flv
+#EXTINF:-1 group-title="Украинские Региoнальные",ТВ Бердянск
+https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/34ch.png",34 канал (Днепр)
+https://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",11 канал (Днепр)
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/rudana.png",Рудана (Кривой Рог)
+http://134.249.128.243/hls/stream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Рудана HD (Кривой Рог)
+http://134.249.128.243/hls/stream_FHD.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Смiла ТВ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Simon TV (Харьков)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",УТВ (Одесса)
+http://46.149.48.13:2000
+#EXTINF:-1 group-title="Украинские Региoнальные",100 News (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00358.png",UA:ОДЕСА
+http://api-tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ОНТ (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Реноме (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Южная Волна HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",РИО (Одесса)
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",GTV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",1-й городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Суспільне ТБ (Одесса)
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ТИС-ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",TGTV (Одесса)
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Здоровье (Одесса)
+https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",МТВ (Мариуполь)
+https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ВТВ-Плюс
+http://193.107.128.8:8552/play/a007
+#EXTINF:-1 group-title="Украинские Региoнальные",KRATU (Херсон)
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 group-title="Украинские Региoнальные",Херсон Плюс (Херсон)
+http://iptv.rubintele.com:8552/play/a001
+#EXTINF:-1 group-title="Украинские Региoнальные",ТВiй плюс (Херсон)
+http://iptv.rubintele.com:8552/play/a003
+#EXTINF:-1 group-title="Украинские Региoнальные",РАИ (Ивано-Франковск)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Галичина (Ивано-Франковск)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Смiла ТВ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",НТА (Львів)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Перший Західний (Львів)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",НТК (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Akadem TV (Суми)
+http://178.20.154.64:8888/atv
+#EXTINF:-1 group-title="Украинские Региoнальные",ТРК Чернівці
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",ТВА Чернівці
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Черновицький Промінь HD (Чернівці)
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Центральный ТВ (Полтава)
+http://159.224.182.177:8080/Live_wildcard/stream/Live/stream_480/chunks.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Центральный ТВ HD (Полтава)
+http://159.224.182.177:8080/Live_wildcard/stream/Live/stream_1080/chunks.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Мiсто+ (Полтава)
+http://93.78.206.172:8080/stream5/stream.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Сфера ТВ HD (Ровно)
+https://hls.goodgame.ru/hls/178689.m3u8
+#EXTINF:-1 group-title="Украинские Региoнальные",Тернопіль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="КРЫМ",ИТВ Крым (Симферополь)
+http://iptv.media-ix.com:11375/itv2/index.m3u8
+#EXTINF:-1 group-title="КРЫМ",ТPK 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:-1 group-title="КРЫМ" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1183.jpg",8 канал (Севастополь)
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6250.png",Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Беларусь",Беларусь 4 Брест
+http://93.125.125.250:32100/Belarus_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/5559.png",Беларусь 24
+http://89.189.191.250/239.211.211.131/stream.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://img.prosto.tv/storage/channel/logo/belsattv.jpg",БелСат
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="Беларусь",ТРО (БелРос)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6248.png",РТР Беларусь
+http://45.88.104.104/play/3789/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6245.png",НТВ Беларусь
+http://37.17.12.119:8901/play/a007
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6247.png",СТВ Беларусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",НАШЕ ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 group-title="Беларусь",Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:-1 group-title="Беларусь",ТК Пинск
+http://87.252.229.252:8083/pinsk
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1183.jpg",8 канал (Беларусь)
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 group-title="Молдова",Молдова 1
+http://www.trm.md/live/MoldovaUnu1/chunklist_w1943375279.m3u8
+#EXTINF:-1 group-title="Молдова",Молдова 2
+http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+#EXTINF:-1 group-title="Молдова",ТНТ Moldova
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 group-title="Молдова",Первый канал Moldova
+https://video.a-tv.md/hls/tv.m3u8
+#EXTINF:-1 group-title="Молдова" tvg-logo="http://only4.tv/ch/6197.png",Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1 group-title="Молдова",TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:-1 group-title="Молдова",Publika TV HD (Moldova)
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 group-title="Молдова",Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1 group-title="Молдова",Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 group-title="Грузия",ГАЛ TV HD
+http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Music Box Russia HD
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.etelecom.ru/upload/5ed8c07c9908a305252656.png",AIVA HD
+http://dmitry-tv.my1.ru/his/zabava/01/CH_AIVAHD.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://telesputnik.ru/upload/iblock/0e7/Mezzo_s.jpg",Mezzo
+http://185.245.187.150:80/Mezzo/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/20103.png",Mezzo Live HD
+http://45.88.104.104/play/165/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/103.png",Europa Plus TV
+http://176.115.152.6:4002/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ (-1)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ (+2)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ (+4)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ (+6)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png",Муз-ТВ (+7)
+http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/823.png",Музыка Первого
+http://185.245.187.150:80/MusicaPervogo/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1324.png",ТНТ Music
+http://77.243.112.149:8080/tnt_music/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Музыкальные",RU TV
+https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 80-х
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 1
+https://v2.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 2
+https://v2.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Кино
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыкальные",MUZ.PLAY
+http://hls.goodgame.ru:80/hls/154446.m3u8
+#EXTINF:-1 group-title="Музыкальные",Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",OTTO FM
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Portal FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Музыкальные",RadioM2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1603.jpg",RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1809.png",MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Музыкальные",MCM Top HD
+http://e02.plius.tv:64144/l57/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/811.png",MTV Hits
+http://185.245.187.150:80/MTVHits/index.m3u8?password=881251085388
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/d16/160_160_1/5f5a49ca65cf4.png",Club MTV
+http://e02.plius.tv:64144/l123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/809.png",MTV Russia
+http://89.189.191.250/239.211.211.147/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/816.png",MTV 80s
+http://e02.plius.tv:64144/l124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/812.png",MTV 90s
+http://e02.plius.tv:64144/l122/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные",Viva Music HD
+https://hls.myvideocontent.ru/hls/vivarussia.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://shgs.ru/images/tv/192.png",Bridge TV
+http://77.243.112.149:8080/bridge-tv/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2206.png",Bridge TV Deluxe HD
+http://77.243.112.149:8080/bridge_hd/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://satcom28.ru/images/channel_icon/712.png",Bridge TV Hits
+http://77.243.112.149:8080/dange/index.m3u8?token=881251085388
+#EXTINF:-1 group-title="Музыкальные",Super Tv
+http://91.235.165.120:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Super Tv HD
+http://91.235.165.120:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",РАДИО ШАНСОН
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/724.png",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/OTV.png",O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/992.jpg",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
